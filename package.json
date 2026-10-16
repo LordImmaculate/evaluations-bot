@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "bun --watch index.ts",
+    "start": "bun index.ts"
+  },
+  "dependencies": {
+    "@types/bun": "^1.2.22",
+    "discord.js": "^14.22.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}
